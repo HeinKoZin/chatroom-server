@@ -1,0 +1,7 @@
+{
+	"name": "ChatRoom Server",
+	"description": "ChatRoom Server for Socket.io",
+	"repository": "https://github.com/HeinKoZin/chatroom-server",
+	"keywords": ["node", "express", "static"],
+	"image": "heroku/nodejs"
+}
